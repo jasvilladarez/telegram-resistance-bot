@@ -12,8 +12,7 @@ module.exports.key = function() {
 where `KEY` is the one provided by `BotFather`
 
 Run
-``` node index.js
-```
+```node index.js```
 
 # Commands
 * /newgame - to create a new game
